@@ -1,6 +1,6 @@
 let strr="madam";
-let temp="";
-for (let i=strr.length; i>0; i--)
+let bag="";
+for (let i=strr.length-1; i>=0; i--)
 {
     bag+=strr[i];
 }
